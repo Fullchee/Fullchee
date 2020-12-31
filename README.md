@@ -1,7 +1,7 @@
 ### Hi! I'm Fullchee! 👋 
 (pronounced **Full** of **Chee**se 🧀)
 
-💼 &nbsp; I've been doing **front-end** development at **IBM** in Toronto 🇨🇦
+💼 &nbsp; I do **front-end** development at **IBM** in Toronto 🇨🇦
 
 <!--
 **Fullchee/Fullchee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
