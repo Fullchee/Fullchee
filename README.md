@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Fullchee!
-(pronounced like **Full** of **Chee**se or however you'd like!)
+(pronounced **Full** of **Chee**se 🧀)
 
 💼 &nbsp; I've been doing **front-end** development at **IBM** in Toronto 🇨🇦
 
