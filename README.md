@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Fullchee!
+### Hi! I'm Fullchee! 👋 
 (pronounced **Full** of **Chee**se 🧀)
 
 💼 &nbsp; I've been doing **front-end** development at **IBM** in Toronto 🇨🇦
