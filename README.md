@@ -24,6 +24,6 @@ I'm also really grateful to scratch my own itch. Recently, a family member got a
 
 💻 &nbsp; I like to build apps with TypeScript, React, Node.js and Postgres
 
-- [Porfolio](fullchee.com)
+- [Porfolio](https://fullchee.com)
 - [Email  :email:](mailto:fullchee@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fullchee-zhang/)
