@@ -22,7 +22,7 @@ At IBM, I've been building web components with JavaScript and LESS to match IBM 
 
 I'm also really grateful to scratch my own itch. Recently, a family member got a high water bill from a leaky toilet so I built a web app that detects high water usage. When my sister worked at a supermarket and only got her schedule once every week, I built an app to create batch Google Calendar events under 30 seconds.
 
-💻 &nbsp; I like to build apps with TypeScript, React, Node.js and Postgres
+💻 &nbsp; I like to build apps with TypeScript, React, Node.js and Postgres but I love learning different tech!
 
 - [Porfolio](https://fullchee.com)
 - [Email  :email:](mailto:fullchee@gmail.com)
