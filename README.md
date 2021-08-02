@@ -1,7 +1,7 @@
 ### Hi! I'm Fullchee! 👋 
 (pronounced **Full** of **Chee**se 🧀)
 
-💼 &nbsp; I do **front-end** development at **IBM** in Toronto 🇨🇦
+💼 &nbsp; I do **front-end** development at [**Forma.ai**](https://www.forma.ai/) in Toronto 🇨🇦
 
 <!--
 **Fullchee/Fullchee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,12 +17,13 @@
 -->
 
 
+At Forma.ai, I'm building incentive compensation Dashboards and core components to help sales people understand how they're getting paid.
+
+I've taken the lead in building up our company's [Storybook](https://storybook.js.org/) to boost dev productivity.
 
 At IBM, I've been building web components with JavaScript and LESS to match IBM Carbon Design. Software development is a team sport so on top of the expected work I've built a few internal command line tools to increase the team's productivity: two puppeteer automation scripts and a script that integrates with [RTC (IBM's version of git)](https://jazz.net/products/workflow-management/) to have formatted diffs.
 
-I'm also really grateful to scratch my own itch. Recently, a family member got a high water bill from a leaky toilet so I built a web app that detects high water usage. When my sister worked at a supermarket and only got her schedule once every week, I built an app to create batch Google Calendar events under 30 seconds.
-
-💻 &nbsp; I like to build apps with TypeScript, React, Node.js and Postgres but I love learning different tech!
+💻 &nbsp; I like building apps with TypeScript, React, Node.js, Python and Postgres!
 
 - [Porfolio](https://fullchee.com)
 - [Email  :email:](mailto:fullchee@gmail.com)
