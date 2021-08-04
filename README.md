@@ -1,7 +1,7 @@
 ### Hi! I'm Fullchee! 👋 
 (pronounced **Full** of **Chee**se 🧀)
 
-💼 &nbsp; I do **front-end** development at [**Forma.ai**](https://www.forma.ai/) in Toronto 🇨🇦
+💼 &nbsp; I work with **React** and **Django** at [**Forma.ai**](https://www.forma.ai/) in Toronto 🇨🇦
 
 <!--
 **Fullchee/Fullchee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
