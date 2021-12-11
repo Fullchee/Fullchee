@@ -28,5 +28,3 @@ At IBM, I've been building web components with JavaScript and LESS to match IBM 
 - [Porfolio](https://fullchee.com)
 - [Email  :email:](mailto:fullchee@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fullchee-zhang/)
-
-[![JavaScript_HTML_CSS_Python_PostgreSQL_Django](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Python_PostgreSQL_Django)]()
