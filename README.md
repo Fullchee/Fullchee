@@ -26,10 +26,10 @@ At Forma.ai, I
 I've taken the lead in building up our company's [Storybook](https://storybook.js.org/) to boost dev productivity.
 
 At IBM, I
-- built web components with JavaScript and LESS to match IBM Carbon Design
+- built web components with `JS` and `LESS` to match IBM Carbon Design
 - increased the team's productivity on top of my work with
    - `puppeteer` automation scripts
-   - documentation and guidance on switching dev environments to Linux
+   - documentation and guidance on switching dev environments to `Linux`
       - for 6x build speeds
    - and a script that integrates with [RTC (IBM's version of git)](https://jazz.net/products/workflow-management/)
       - to avoid overriding someone else's changes
