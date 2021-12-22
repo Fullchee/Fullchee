@@ -17,11 +17,22 @@
 -->
 
 
-At Forma.ai, I'm building incentive compensation Dashboards and core components to help sales people understand how they're getting paid.
+At Forma.ai, I
+- build `React` dashboards
+   - so sales reps know how much they get paid and why
+- write `SQL` queries from business logic
+- develop on a `Django` backend to send data to the frontend
 
 I've taken the lead in building up our company's [Storybook](https://storybook.js.org/) to boost dev productivity.
 
-At IBM, I've been building web components with JavaScript and LESS to match IBM Carbon Design. Software development is a team sport so on top of the expected work I've built a few internal command line tools to increase the team's productivity: two puppeteer automation scripts and a script that integrates with [RTC (IBM's version of git)](https://jazz.net/products/workflow-management/) to have formatted diffs.
+At IBM, I
+- built web components with JavaScript and LESS to match IBM Carbon Design
+- increased the team's productivity on top of my work with
+   - `puppeteer` automation scripts
+   - documentation and guidance on switching dev environments to Linux
+      - for 6x build speeds
+   - and a script that integrates with [RTC (IBM's version of git)](https://jazz.net/products/workflow-management/)
+      - to avoid overriding someone else's changes
 
 💻 &nbsp; I like building apps with TypeScript, React, Node.js, Python and Postgres!
 
