@@ -17,7 +17,7 @@
 -->
 
 
-At Forma.ai, I
+At Forma.ai, I:
 - build `React` dashboards
    - so sales reps know how much they get paid and why
 - write `SQL` queries from business logic
@@ -25,7 +25,7 @@ At Forma.ai, I
 
 I've taken the lead in building up our company's [Storybook](https://storybook.js.org/) to boost dev productivity.
 
-At IBM, I
+At IBM, I:
 - built web components with `JS` and `LESS` to match IBM Carbon Design
 - increased the team's productivity on top of my work with
    - `puppeteer` automation scripts
