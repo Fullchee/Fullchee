@@ -39,3 +39,4 @@ At IBM, I
 - [Porfolio](https://fullchee.com)
 - [Email  :email:](mailto:fullchee@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fullchee-zhang/)
+- [Resume](https://fullchee.com/assets/Fullchee-Resume.pdf)
