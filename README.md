@@ -31,5 +31,3 @@ I've taken the lead in building up our company's [Storybook](https://storybook.j
 - [Email  :email:](mailto:fullchee@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fullchee-zhang/)
 - [Resume](https://fullchee.com/assets/Fullchee-Resume.pdf)
-
-[![Fullchee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fullchee)](https://github.com/Fullchee/github-readme-stats)
