@@ -27,7 +27,7 @@ I've taken the lead in building up our company's [Storybook](https://storybook.j
 
 💻 &nbsp; I like building apps with TypeScript, React, Node.js, Python and Postgres!
 
-- [🌐Porfolio](https://fullchee.com)
+- [🌐 Porfolio](https://fullchee.com)
 - [📧 Email](mailto:fullchee@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fullchee-zhang/)
 - [Resume](https://fullchee.com/assets/Fullchee-Resume.pdf)
